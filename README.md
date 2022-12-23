@@ -1,2 +1,2 @@
-# Sevastopol-Banco-de-Dados
+# Banco de Dados do Projeto Sevastopol
  Aqui tem o projeto da cadeira de Banco de Dados, o qual é a respeito de uma estação espacial e seu problema de qualquer tripulante conseguir ter acesso a qualquer lugar da estação, esse projeto visou solucionar isso com um banco de dados. Infelizmente, a resolução não foi 100%, já que as entidades ficaram muito "amarradas" na codificação do banco, o que resultou em mais problemas. Porém, quando eu tiver um tempo melhor, vou corrigir isso e refazer o banco de dados.
